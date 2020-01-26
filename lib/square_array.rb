@@ -9,4 +9,4 @@ counter +=1
 end
 end
 
-sqaure_array(numbers)
+square_array(numbers)
