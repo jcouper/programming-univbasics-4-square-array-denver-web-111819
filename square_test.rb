@@ -1,12 +1,18 @@
+
+numbers = [1,2,3]
+
+
 def square_array(array)
 empty_arr = []
+expon = " "
 
 while counter < array.length do
- empty_arr.push(array[counter]**)
+ expon = array[counter]** 
+ empty_arr.push(expon)
 
 counter +=1 
 end
 empty_arr
 end
 
-#something is up with this directory I don't know how to fix
+sqaure_array(numbers)
